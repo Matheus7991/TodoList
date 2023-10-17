@@ -1,0 +1,11 @@
+br\com\matheusfreitas\todolist\task\ITaskRepository.class
+br\com\matheusfreitas\todolist\task\TaskModel.class
+br\com\matheusfreitas\todolist\errors\ExceptionHandlerController.class
+br\com\matheusfreitas\todolist\user\IUserRepository.class
+br\com\matheusfreitas\todolist\user\UserModel.class
+br\com\matheusfreitas\todolist\user\UserController.class
+br\com\matheusfreitas\todolist\task\TaskController.class
+br\com\matheusfreitas\todolist\filter\FilterTaskAuth.class
+br\com\matheusfreitas\todolist\pastacontrollerteste\MinhaPrimeiraController.class
+br\com\matheusfreitas\todolist\TodolistApplication.class
+br\com\matheusfreitas\todolist\utils\Utils.class
